@@ -7,6 +7,7 @@ Primeira Etapa do Processo Seletivo
 API que faz controle de pagamento pelas entregas realizadas, através desta aplicação é possível verificar:
 
 ● Notas agrupadas por remetente;
+<br>
 ● Cálculo do valor total das notas para cada remetente;
 <br>
 ● Cálculo do valor que o remetente irá receber pelo que já foi entregue;
