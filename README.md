@@ -8,8 +8,11 @@ API que faz controle de pagamento pelas entregas realizadas, através desta apli
 
 ● Notas agrupadas por remetente;
 ● Cálculo do valor total das notas para cada remetente;
+<br>
 ● Cálculo do valor que o remetente irá receber pelo que já foi entregue;
+<br>
 ● Cálculo do valor que o remetente irá receber pelo que ainda não foi entregue;
+<br>
 ● Cálculo de quanto o remetente deixou de receber devido ao atraso na entrega.
 
 ## Inicializar projeto
