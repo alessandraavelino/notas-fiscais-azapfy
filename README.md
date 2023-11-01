@@ -29,7 +29,7 @@ API que faz controle de pagamento pelas entregas realizadas, através desta apli
     - Insomnia
  
 ## Endpoints
-- `http://127.0.0.1:8000/notas)http://127.0.0.1:8000/notas`
+- `http://127.0.0.1:8000/notas`
 - `http://127.0.0.1:8000/calcular-valores`
 - `http://127.0.0.1:8000/agrupar-notas-por-remetente`
 
